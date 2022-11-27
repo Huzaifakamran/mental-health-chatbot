@@ -1,6 +1,6 @@
 import streamlit as st
 import torch
-import transformers
+# import transformers
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 def load_data():
